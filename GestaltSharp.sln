@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestalt-util", "gestalt-util\gestalt-util.csproj", "{F0D7F339-9001-4476-B6DF-4B77BFBBE78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestalt-module", "gestalt-module\gestalt-module.csproj", "{66BF1740-9479-4018-ADDB-381CC58B97E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestalt-asset-core", "gestalt-asset-core\gestalt-asset-core.csproj", "{56A2E9DC-A33C-40F6-8B9A-5DC87EC7FE6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D7F339-9001-4476-B6DF-4B77BFBBE78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D7F339-9001-4476-B6DF-4B77BFBBE78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D7F339-9001-4476-B6DF-4B77BFBBE78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D7F339-9001-4476-B6DF-4B77BFBBE78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BF1740-9479-4018-ADDB-381CC58B97E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BF1740-9479-4018-ADDB-381CC58B97E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BF1740-9479-4018-ADDB-381CC58B97E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BF1740-9479-4018-ADDB-381CC58B97E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A2E9DC-A33C-40F6-8B9A-5DC87EC7FE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A2E9DC-A33C-40F6-8B9A-5DC87EC7FE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A2E9DC-A33C-40F6-8B9A-5DC87EC7FE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A2E9DC-A33C-40F6-8B9A-5DC87EC7FE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
